@@ -1,4 +1,4 @@
-# CPlussPlussRPG
+# CPlusPlusRPG
 This is a text-based role-playing game using C++ 11.  As this project is a work-in progress, much of the functionality has not yet been developed, but this readMe file details what I aim to accomplish.
 Object attributes (ex. Location descriptions, weapon min and max damage) are stored in text files. 
 
