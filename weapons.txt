@@ -1,0 +1,6 @@
+1;3;longsword;The classic straight blade.  Popular with heroes and bandits alike.;weapon;5;10;1;9
+0;0;waraxe;A good balance between weight and speed.  Hack and slash to your hearts content.;weapon;7;10;2;8
+6;8;warhammer;A heavy one-handed weapon.  Good for smashing things.;weapon;9;12;3;7
+9;0;shortsword;Popular as an off-hand weapon or as a primary weapon for smaller creatures.;weapon;3;8;1;6
+0;9;dagger;Easily stowed in boot or sleeve.  Great for slicing apples…and applying poisons.;weapon;1;6;1;4
+3;2;sharp stick;Even the most fearsome foe will feel a poke in the eye from this jagged barb.;weapon;2;2;0;2

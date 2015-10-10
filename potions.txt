@@ -1,0 +1,4 @@
+0;1;Potion of Healing;Heals deep wounds and broken bones;potion;0.5;10;restore hp;5
+1;0;Elixer of Heath;Increase HP for 10 rounds;potion;0.5;20;increase max hp;5
+-1;-1;Elixer of Defense;Increase DP for 10 rounds;potion;0.5;20;increase dp;5
+-1;-1;Elixer of Attack;Increase dammage for 10 rounds;potion;0.5;20;increase dammage;5

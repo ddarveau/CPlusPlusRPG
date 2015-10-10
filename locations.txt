@@ -1,0 +1,100 @@
+Home;This is your home village.  Children run and play in the fields.  Villagers mill about.;Your home;V;N
+Village;A bustling village.  Children run and play in the fields.  Villagers mill about.;A village;V;N
+Trees;A winding path through the woods;Some trees;T;N
+Rocks;Some rocks.;Some rocks;R;Y
+Rocks;Some rocks.;Some rocks;R;Y
+Rocks;Some rocks.;Some rocks;R;Y
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Village;A bustling village.  Children run and play in the fields.  Villagers mill about.;A village.;V;N
+Rocks;Some rocks.;Some rocks.;R;Y
+Village;A bustling village.  Children run and play in the fields.  Villagers mill about.;A village;V;N
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Monster;A huge nest is found amoung the steep cliff walls.  Bones lie strewn about.  Some look human.  Feathers.  Could this be the lair of a giant hawk or a griffon?;a strange outcropping on the cliffside;M;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+Trees;A winding path through the woods;Some trees;T;N
+Monster;A bog lying deep in the woods.  A strange mist hangs in the air making it difficult to see.  Mud cakes your boots and you strugggle not to to trip and fall.  The smell of decaying plantlife is suffocating.  It feels like someone or something is watching you.;thick bramble and a cumbersome mess of twisted vines;M;N
+Trees;A winding path through the woods;Some trees;T;N
+Village;A bustling village.  Children run and play in the fields.  Villagers mill about.;A village;V;N
+Village;A bustling village.  Children run and play in the fields.  Villagers mill about.;A village;V;N
+Rocks;Some rocks.;Some rocks;R;N
+river;A rushing river;A river;W;Y
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Village;A bustling village.  Children run and play in the fields.  Villagers mill about.;A village;V;N
+Cave;A murky cave;A cave;C;N
+river;A rushing river;A river;W;Y
+Cave;A murky cave;A cave;C;N
+Trees;A winding path through the woods;Some trees;T;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+Rocks;A winding path through the woods;Some rocks;R;Y
+Rocks;A winding path through the woods;Some rocks;R;Y
+Monster;As you draw clearer, you spot a group of shoddily-dressed ruffians.  Three are dancing around a campfire singing a song about pretty barmaid.  Two others are engaged in a game of horseplay with their swords in hand.   Their footwork clearly shows they’re drunk as skunks.  But the ringing of their swords as they strike and parry suggests strength and finesse that only comes with experience.;You catch the smell of campfire and cooking.  You hear drunken revere and the clashing of swordplay.  ;M;Y
+Rocks;A winding path through the woods;Some rocks;R;Y
+Village;A bustling village.  Children run and play in the fields.  Villagers mill about.;A village;V;N
+Trees;A winding path through the woods;Some trees;T;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+river;A rushing river;A river;W;Y
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+Village;A bustling village.  Children run and play in the fields.  Villagers mill about.;A village;V;N
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+river;A rushing river;A river;W;Y
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Cave;A murky cave;A cave;C;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Cave;A murky cave;A cave;C;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+river;A rushing river;A river;W;Y
+Trees;A winding path through the woods;Some trees;T;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Monster;Fog…creepy creepy.;thick bramble and a cumbersome mess of twisted vines;M;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+Rocks;A winding path through the woods;Some rocks;R;Y
+Rocks;A winding path through the woods;Some rocks;R;Y
+Cave;A murky cave;A cave;C;N
+Trees;A winding path through the woods;Some trees;T;N
+river;A rushing river;A river;W;Y
+river;A rushing river;A river;W;Y
+Trees;A winding path through the woods;Some trees;T;N
+Cave;A murky cave;A cave;C;N
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Monster;Fog…creepy creepy.;thick bramble and a cumbersome mess of twisted vines;M;N
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+river;A rushing river;A river;W;Y
+Trees;A winding path through the woods;Some trees;T;N
+Trees;A winding path through the woods;Some trees;T;N
+Monster;Fog…creepy creepy.;thick bramble and a cumbersome mess of twisted vines;M;N
+Trees;A winding path through the woods;Some trees;T;N
+Rocks;A winding path through the woods;Some rocks;R;Y
+Rocks;A winding path through the woods;Some rocks;R;Y
+Rocks;A winding path through the woods;Some rocks;R;Y
+Trees;A winding path through the woods;Some trees;T;N
+river;A rushing river;A river;W;Y
+Village;A bustling village.  Children run and play in the fields.  Villagers mill about.;A village;V;N

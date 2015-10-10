@@ -1,0 +1,4 @@
+0;0;sharp stick;Even the most fearsome foe will feel a poke in the eye from this jagged barb.;weapon;2;2;0;2
+0;0;Potion of Healing;Heals deep wounds and broken bones;potion;0.5;10;restore hp;5
+0;0;waraxe;A good balance between weight and speed.  Hack and slash to your hearts content.;weapon;7;10;2;8
+-1;-1;Fur Clothing;Fur clothing good for some protection from the elements.;armor;2;5;3;torso
